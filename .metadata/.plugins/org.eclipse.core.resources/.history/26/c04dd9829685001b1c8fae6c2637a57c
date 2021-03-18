@@ -1,0 +1,24 @@
+package io.gabriel.web.jdbc;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.sql.DataSource;
+
+public class StudentDbUtil {
+	
+	private DataSource dataSource;
+	
+	public StudentDbUtil(DataSource ds) {
+		dataSource = ds;
+	}
+	
+	public List<Student> getStudents() throws Exception {
+		
+		List<Student> students = new ArrayList<>();
+		
+		return students;
+		
+	}
+
+}

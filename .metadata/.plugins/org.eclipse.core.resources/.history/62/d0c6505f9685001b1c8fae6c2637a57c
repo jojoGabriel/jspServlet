@@ -1,0 +1,13 @@
+package io.gabriel.web.jdbc;
+
+import javax.sql.DataSource;
+
+public class StudentDbUtil {
+	
+	private DataSource dataSource;
+	
+	public StudentDbUtil(DataSource ds) {
+		dataSource = ds;
+	}
+
+}

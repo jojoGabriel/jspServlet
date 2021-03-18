@@ -1,0 +1,12 @@
+127.0.0.1 - - [07/Mar/2021:11:56:31 -0600] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:11:56:36 -0600] "GET /tagdemo/function-test.jsp HTTP/1.1" 200 78
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:11:58:13 -0600] "GET /tagdemo/function-test.jsp HTTP/1.1" 500 8625
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:11:58:52 -0600] "GET /tagdemo/function-test.jsp HTTP/1.1" 200 142
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:12:01:21 -0600] "GET /tagdemo/function-test.jsp HTTP/1.1" 500 2294
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:12:01:35 -0600] "GET /tagdemo/function-test.jsp HTTP/1.1" 500 4962
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:12:01:47 -0600] "GET /tagdemo/function-test.jsp HTTP/1.1" 500 4962
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:12:02:35 -0600] "GET /tagdemo/function-test.jsp HTTP/1.1" 200 210
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:12:12:44 -0600] "GET /tagdemo/split-join-test.jsp HTTP/1.1" 500 3734
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:12:15:32 -0600] "GET /tagdemo/split-join-test.jsp HTTP/1.1" 200 160
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:12:17:30 -0600] "GET /tagdemo/split-join-test.jsp HTTP/1.1" 500 2932
+0:0:0:0:0:0:0:1 - - [07/Mar/2021:12:18:35 -0600] "GET /tagdemo/split-join-test.jsp HTTP/1.1" 200 221

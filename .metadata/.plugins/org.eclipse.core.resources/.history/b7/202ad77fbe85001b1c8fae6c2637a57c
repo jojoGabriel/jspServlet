@@ -1,0 +1,23 @@
+<%@ page import="java.util.*, io.gabriel.web.jdbc.*" %>
+
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Student Tracker App</title>
+	</head>
+	
+	<%
+	
+		// get students from the request object (sent by servlet)
+		
+		List<Student> students = (List<Student>) request.getAttribute("STUDENT_LIST");
+		
+		
+	%>
+		
+	<body>
+		<%= students %>
+	</body>
+
+</html>

@@ -1,0 +1,9 @@
+127.0.0.1 - - [11/Mar/2021:12:26:28 -0600] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:12:26:30 -0600] "GET /servletdemo/HelloWorldServlet HTTP/1.1" 200 106
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:12:26:47 -0600] "GET /servletdemo/HelloWorldServlet HTTP/1.1" 200 106
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:16:46:54 -0600] "GET /servletdemo/student-form.html HTTP/1.1" 200 323
+127.0.0.1 - - [11/Mar/2021:17:02:56 -0600] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:17:02:57 -0600] "GET /servletdemo/student-form.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:17:03:05 -0600] "GET /servletdemo/StudentServlet?firstName=Jojo&lastName=Gabriel HTTP/1.1" 200 67
+127.0.0.1 - - [11/Mar/2021:17:50:31 -0600] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Mar/2021:17:50:31 -0600] "GET /servletdemo/TestParamServlet HTTP/1.1" 200 78

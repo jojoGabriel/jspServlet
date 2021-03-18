@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+/home/gabriel/Projects/jspServlets/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4170143903.index
+/tagdemo/src
+/home/gabriel/Projects/jspServlets/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2729125464.index
+/web-student-tracker/src
+/home/gabriel/Projects/jspServlets/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/397597023.index
+/jspdemo/src
+/home/gabriel/Projects/eclipse/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/397597023.index
+/jspdemo/src
+/home/gabriel/Projects/jspServlets/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/411493201.index
+/servletdemo/src

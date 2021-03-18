@@ -1,0 +1,13 @@
+127.0.0.1 - - [12/Mar/2021:08:35:48 -0600] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Mar/2021:08:35:51 -0600] "GET /servletdemo/MvcDemoServlet HTTP/1.1" 200 119
+127.0.0.1 - - [12/Mar/2021:10:00:52 -0600] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Mar/2021:10:00:54 -0600] "GET /servletdemo/MvcServletDemoTwo HTTP/1.1" 200 427
+0:0:0:0:0:0:0:1 - - [12/Mar/2021:10:03:38 -0600] "GET /servletdemo/WEB-INF/index.html HTTP/1.1" 404 682
+127.0.0.1 - - [12/Mar/2021:10:03:48 -0600] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Mar/2021:10:03:49 -0600] "GET /servletdemo/WEB-INF/index.html HTTP/1.1" 404 682
+127.0.0.1 - - [12/Mar/2021:10:04:23 -0600] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Mar/2021:10:04:24 -0600] "GET /servletdemo/WEB-INF/index.html HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [12/Mar/2021:10:07:06 -0600] "GET /servletdemo/WEB-INF/index.html HTTP/1.1" 404 682
+127.0.0.1 - - [12/Mar/2021:10:09:04 -0600] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Mar/2021:10:09:04 -0600] "GET /servletdemo/index.html HTTP/1.1" 200 78
+0:0:0:0:0:0:0:1 - - [12/Mar/2021:10:09:06 -0600] "GET /servletdemo/MvcServletDemoTwo HTTP/1.1" 200 427

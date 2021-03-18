@@ -1,0 +1,7 @@
+package io.gabriel.web.jdbc;
+
+public class StudentDbUtil {
+	
+	private DataSource dataSource;
+
+}
